@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap");
+
+body {
+  font-family: Ubuntu Condenseed;
+  background-color: #ffffff;
+}
+
+.jumbotron {
+  margin-top: 56px;
+  background-image: url(img/1.jpg);
+  background-size: cover;
+  height: 500px;
+  text-align: center;
+  padding-top: 10rem;
+  border-top: 5px solid cyan;
+  border-bottom: 5px solid salmon;
+}
+
+#about {
+  padding-top: 5rem;
+}
+
+#content {
+  padding-top: 5rem;
+  background-color: #eaeaea;
+}
+
+footer {
+  padding: 5px;
+  background-color: black;
+}
+
+.followme {
+  background-color: #eaeaea;
+}
+
+.followme .container a {
+  text-decoration: none;
+}
+
+.followme .container a:hover {
+  color: black;
+}

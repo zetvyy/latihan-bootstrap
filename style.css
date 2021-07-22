@@ -25,6 +25,10 @@ body {
   background-color: #eaeaea;
 }
 
+#contact {
+  padding-top: 5rem;
+}
+
 footer {
   padding: 5px;
   background-color: black;
@@ -40,4 +44,8 @@ footer {
 
 .followme .container a:hover {
   color: black;
+}
+
+.resep {
+  padding-top: 5rem;
 }
